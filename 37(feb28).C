@@ -1,6 +1,5 @@
 #include <stdio.h>
- 
-int main(void) 
+ int main(void) 
 {
 int x,y;
 printf("\n enter two numbers to swap:");
