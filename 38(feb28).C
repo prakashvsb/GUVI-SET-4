@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 int main(void) {
-	int i,k;
+int i,k;
 	scanf("%d %d",&i,&k);
 	i=i^k;
 	k=i^k;
