@@ -2,7 +2,7 @@
 
 int main(void) 
 {
-	int array[20];
+int array[20];
 	int n,i,max=array[0];
 	printf("enter the number of elements:");
 	scanf("%d",&n);
